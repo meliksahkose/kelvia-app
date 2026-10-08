@@ -24,4 +24,4 @@
 - **Fair monetisation.** Weekly free credits and auto-renewing Premium subscriptions (monthly and yearly, 3-day trial). Results are never paywalled and there are no ads or accounts.
 
 ---
-<sub>Source code is private. Happy to walk through the architecture and code in an interview: meliksahkose90@gmail.com</sub>
+<sub>Source code is private. Happy to walk through the architecture and code in an interview: meliksah.kose1@hotmail.com</sub>
